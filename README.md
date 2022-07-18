@@ -18,4 +18,4 @@ Class 1--> The stock price increased.
 Class 0--> The stock price stayed the same or decreased.
 
 
-Here I used basic concepts of NLP which is Bag-of-words for converting text into vectors and used RandomForest Classifier for Prediction.
+Here I used basic concepts of NLP and used ml for Prediction.
